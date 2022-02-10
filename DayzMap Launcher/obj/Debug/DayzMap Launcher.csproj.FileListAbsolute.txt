@@ -1,0 +1,11 @@
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Debug\DayzMap Launcher.exe.config
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Debug\DayzMap Launcher.exe
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Debug\DayzMap Launcher.pdb
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Debug\DayzMap Launcher.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Debug\DayzMap_Launcher.Form1.resources
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Debug\DayzMap_Launcher.Properties.Resources.resources
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Debug\DayzMap Launcher.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Debug\DayzMap Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Debug\DayzMap Launcher.exe
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Debug\DayzMap Launcher.pdb
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Debug\DayzMap_Launcher.Form2.resources

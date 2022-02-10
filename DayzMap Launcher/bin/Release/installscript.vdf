@@ -1,0 +1,26 @@
+"installscript"
+{
+	"registry"
+	{
+		"hkey_local_machine\\software\\bohemia interactive\\arma 3"
+		{
+			"string"
+			{
+				"data"		"%MAIN%"
+				"main"		"%INSTALLDIR%"
+			}
+		}
+		"hkey_local_machine\\software\\bohemia interactive\\arma 3\\expansions\\arma 3"
+		{
+			"string"
+			{
+				"moddir"		"A3"
+				"path"		"SOFTWARE\\Bohemia Interactive\\Arma 3"
+			}
+		}
+	}
+}
+"kvsignatures"
+{
+	"installscript"		"6ea9384716248cba314fedd5ade98c62fa58da5599ca9b192dca2ff52941ca6dd3101cd1035001d746774a8ed1b457303090a4342c7ab106d582a56df0fb3462d6be5eacc5a4c32283bdddbb7f762da884dfd824fa133a55b45bf6a54b0357ab5693e21f7f5b481789fdc15eb53d46254a8f01f50c023bba68933b9ce59d07fb"
+}

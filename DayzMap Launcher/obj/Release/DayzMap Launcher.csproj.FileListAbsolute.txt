@@ -1,0 +1,70 @@
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\DayzMap Launcher.exe.config
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\DayzMap Launcher.exe
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\DayzMap Launcher.pdb
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.Form1.resources
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.Form2.resources
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.Properties.Resources.resources
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.exe
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.pdb
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\DotNetZip.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\DotNetZip.pdb
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\DotNetZip.xml
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.csproj.CopyComplete
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\DayzMap Launcher.exe.config
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\DayzMap Launcher.exe
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\DayzMap Launcher.pdb
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\DotNetZip.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\DotNetZip.pdb
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\DotNetZip.xml
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.Form1.resources
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.Form2.resources
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.Properties.Resources.resources
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.csproj.GenerateResource.cache
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.csproj.CoreCompileInputs.cache
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.csproj.CopyComplete
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.exe
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.pdb
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.HelpForm.resources
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.BootForm.resources
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.MainProfile.resources
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.EnterNick.resources
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\MySql.Data.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\Google.Protobuf.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\Zstandard.Net.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\K4os.Compression.LZ4.Streams.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\BouncyCastle.Crypto.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\Ubiety.Dns.Core.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\Renci.SshNet.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\System.Buffers.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\K4os.Compression.LZ4.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\K4os.Hash.xxHash.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\System.Memory.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\System.Numerics.Vectors.dll
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\bin\Release\MySql.Data.xml
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.exe.config
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.Form3.resources
+A:\dayz\Project_www_dayzmap_ru\Software\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\MySql.Data.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\Google.Protobuf.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\Zstandard.Net.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\Renci.SshNet.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\System.Buffers.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\System.Memory.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\bin\Release\MySql.Data.xml
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap Launcher.exe.config
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.BootForm.resources
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.EnterNick.resources
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.Form3.resources
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.HelpForm.resources
+C:\Users\Даниил\source\repos\DayzMap Launcher\DayzMap Launcher\obj\Release\DayzMap_Launcher.MainProfile.resources
